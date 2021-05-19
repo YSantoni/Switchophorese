@@ -24,6 +24,6 @@ Programmable elements :
 - linear or exponential time ramp
 
 Libraries used :
-https://github.com/prenticedavid/MCUFRIEND_kbv
 
+https://github.com/prenticedavid/MCUFRIEND_kbv
 https://github.com/adafruit/Adafruit_TouchScreen
