@@ -29,4 +29,4 @@ https://github.com/prenticedavid/MCUFRIEND_kbv
 
 https://github.com/adafruit/Adafruit_TouchScreen
 
-https://user-images.githubusercontent.com/18295766/102794269-6e10de80-43ab-11eb-8156-e7d295066625.jpg
+18295766/102794269-6e10de80-43ab-11eb-8156-e7d295066625.jpg
