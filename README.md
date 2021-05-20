@@ -34,13 +34,13 @@ https://github.com/adafruit/Adafruit_TouchScreen
 
 ![group](https://user-images.githubusercontent.com/84445386/118958045-568d5000-b961-11eb-83b9-2e7a44948cfc.png)
 
-First screen : Welcome screen, touch anywhere to begin.
+**First screen** : Welcome screen, touch anywhere to begin.
 
-Second screen : Set the duration for the pre-heating timer "Init" and the runtime timer "Run". Select hour, minute, or second and set it with "+" and "-" square, when done touch                 "OK" to go to the next screen.
+**Second screen** : Set the duration for the pre-heating timer "Init" and the runtime timer "Run". Select hour, minute, or second and set it with "+" and "-" square, when done touch                 "OK" to go to the next screen.
 
-Third screen : Set the duration of the first and last forward pulse of the run (minimum steps of 10ms). Set the duration of the backward pulse as a ratio of the forward pulse.
+**Third screen** : Set the duration of the first and last forward pulse of the run (minimum steps of 10ms). Set the duration of the backward pulse as a ratio of the forward pulse.
                 You can choose linear or exponential to have the desired evolution of pulse duration during the run.
 
-Fourth screen : The recap screen with all the parameters you have entered, when ready press "Begin".
+**Fourth screen** : The recap screen with all the parameters you have entered, when ready press "Begin".
 
-Fifth screen : The run screen
+**Fifth screen** : The run screen
