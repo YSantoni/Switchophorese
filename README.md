@@ -5,7 +5,7 @@ Connect this module between your classic lab power supply and your gel tray.
 This open source laboratory equipment is based on :
 
 - Arduino mega
-- Tft 2.8 lcd touch screen module
+- Tft 2.8 lcd touch screen shield
 - Mosfet full h-bridge circuit
 
 Specs : suitable for gel electrophoresis or field inversion electrophoresis
